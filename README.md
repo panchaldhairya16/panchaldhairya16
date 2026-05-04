@@ -103,8 +103,8 @@ If you'd like any of the above added here as runnable code with docs and a tiny 
 
 Open to collaboration, contract work, and mentorship. Share what you'd like to see and I'll add a focused, runnable sample.
 
-- GitHub: https://github.com/dhairyapanchal16
-- Email: (add your contact email here)
+- GitHub: https://github.com/panchaldhairya16
+- Email: panchaldhairya2005@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dhairya-panchal-800845351/
 
 ---
@@ -129,6 +129,4 @@ Open to collaboration, contract work, and mentorship. Share what you'd like to s
 - Prefer a different visual style (minimal, CV-like, or project-first)? Tell me which and I'll re-theme it.
 
 ---
-
-_Replace the placeholder email, project links, and any usernames to personalize the page._
 
