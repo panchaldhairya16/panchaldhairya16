@@ -25,7 +25,21 @@ I design, build, and operate reliable, secure, and cost-effective cloud platform
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+
 </div>
+
+<table>
+<tr>
+<td width="33%" align="center">🐧 <b>Linux & RHEL</b></td>
+<td width="33%" align="center">🐳 <b>Docker & K8s</b></td>
+<td width="33%" align="center">⚙️ <b>CI/CD Pipelines</b></td>
+</tr>
+<tr>
+<td width="33%" align="center">☁️ <b>Cloud Platforms</b></td>
+<td width="33%" align="center">🔧 <b>Terraform & Ansible</b></td>
+<td width="33%" align="center">📊 <b>Monitoring Tools</b></td>
+</tr>
+</table>
 
 ## About
 
