@@ -13,6 +13,7 @@ I design, build, and operate reliable, secure, and cost-effective cloud platform
 ---
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,terraform,ansible,aws,azure,git,github,python,nginx,prometheus,grafana&theme=dark" />
+  </br>
 </div>
 <div align="center">
 
