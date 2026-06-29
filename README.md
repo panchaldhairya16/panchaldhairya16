@@ -11,7 +11,9 @@
 I design, build, and operate reliable, secure, and cost-effective cloud platforms. I focus on automation, Infrastructure-as-Code, repeatable CI/CD pipelines, and observability to enable safe and fast delivery.
 
 ---
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,terraform,ansible,aws,azure,git,github,python,nginx,prometheus,grafana&theme=dark" />
+</div>
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -28,18 +30,6 @@ I design, build, and operate reliable, secure, and cost-effective cloud platform
 
 </div>
 
-<table>
-<tr>
-<td width="33%" align="center">🐧 <b>Linux & RHEL</b></td>
-<td width="33%" align="center">🐳 <b>Docker & K8s</b></td>
-<td width="33%" align="center">⚙️ <b>CI/CD Pipelines</b></td>
-</tr>
-<tr>
-<td width="33%" align="center">☁️ <b>Cloud Platforms</b></td>
-<td width="33%" align="center">🔧 <b>Terraform & Ansible</b></td>
-<td width="33%" align="center">📊 <b>Monitoring Tools</b></td>
-</tr>
-</table>
 
 ## About
 
